@@ -1,0 +1,144 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminsite.master.cs" Inherits="WebApplication1.admin.adminsite" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Online voting system</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+     <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:#140333">
+            <div class="container" style="background-color:#140333">
+                <div class="navbar-header "style="color:black">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar" style="color:black"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                  
+                </div>
+               <div class="navbar-collapse collapse" style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color:#140333">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/admin/ad home.aspx"><span class="glyphicon glyphicon-home" style="color:white"></span> &nbsp; Home</a></li>
+                        <li><a runat="server" href="~/admin/aboutadmin.aspx"><img src="img icon/about.png" style="height:20px; width:20px;"/>&nbsp About</a></li>
+                        <li><a runat="server" href="~/admin/contactadmin.aspx"> <img src="img icon/icon3.png" style="height:20px; width:20px;"/>&nbsp;Contact</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                          <li><a runat="server" ><span class="glyphicon glyphicon-user" style="color:white"></span> &nbsp; Admin</a></li>
+                       
+                        <li><a runat="server" href="~/logout.aspx"><span class="glyphicon glyphicon-log-out" style="color:white"></span> &nbsp; Log out</a></li>
+                         <li>
+                          <a href="seefeedback.aspx"><span class="glyphicon glyphicon-envelope"> </span><span class="txt">   Feedback</span></a>
+
+                         </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container" style=" background-image: url(adimg/img1.jpg); height:auto;width:1080px;">
+            <div class="row" style="height:inherit;">
+                <div class="col-sm-1 col-md-1.5 col-lg-2" style="/*background-image: url(adimg/img1.jpg);*/ height:480px;">
+                   <div class="menu">
+                     <asp:Menu ID="Menu1" runat="server">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="Candidate list.aspx" Text="Voter List" Value="New Item"></asp:MenuItem>
+                         <asp:MenuItem NavigateUrl="offer vote.aspx" Text="Offer Election" Value="New Item"></asp:MenuItem>
+
+                        <asp:MenuItem NavigateUrl="create vote.aspx" Text="Create Vote" Value="New Item"></asp:MenuItem>
+                         <asp:MenuItem NavigateUrl="Delete.aspx" Text=" Finish Vote" Value="New Item"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="Calculateresult.aspx" Text="Calculate Result" Value="New Item"></asp:MenuItem>
+                      <asp:MenuItem NavigateUrl="Publish Result.aspx" Text="Publish Result" Value="New Item"></asp:MenuItem>               
+                        <asp:MenuItem NavigateUrl="notification.aspx" Text="Add Notification" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="finishregistration.aspx" Text="Finish Registration" Value="New Item"></asp:MenuItem>              
+                        <asp:MenuItem NavigateUrl="ad home.aspx" Text="Back" Value="New Item"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+                </div>
+                </div>
+                 <div class="col-sm-11 col-md-10 col-lg-9" style="height:inherit;">
+                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+            </asp:ContentPlaceHolder>
+                 </div>
+            </div>
+        </div>
+
+
+          <%-----------------<div class="menu">
+               <asp:Menu ID="Menu1" runat="server">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="Candidate list.aspx" Text="Candidate List" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="create vote.aspx" Text="Create Vote" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="notification.aspx" Text="Add Notification" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="notification.aspx" Text="Add Notification" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="offer vote.aspx" Text="Offer Vote" Value="New Item"></asp:MenuItem>
+                         <asp:MenuItem NavigateUrl="publish result.aspx" Text="Publish Result" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="seefeedback.aspx" Text="Feedback" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="ad home.aspx" Text="Back" Value="New Item"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+                  </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+            </asp:ContentPlaceHolder>
+            
+            </div>-----------------------%>
+
+               
+            <hr />
+             <footer class="ami" style="margin-bottom:0px;">
+                <div class="row">
+                    <div class="col-md-10">
+                        </div>
+                </div>
+               <div class="row">
+               
+                   <div class="col-md-12">
+                      
+                  <p>&copy; <%: DateTime.Now.Year %> - Online Voting System</p>                                         
+                 <p>by ConstantMD Limited</p>
+                       </div>
+                
+               </div>
+            </footer>
+       
+
+    </form>
+</body>
+</html>

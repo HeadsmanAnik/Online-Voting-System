@@ -1,0 +1,340 @@
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojResolveAssemblyReference.cache
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anik\Desktop\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojResolveAssemblyReference.cache
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anik\Downloads\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojResolveAssemblyReference.cache
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Anik\Desktop\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojResolveAssemblyReference.cache
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Anik\Desktop\ovs\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Asus\Downloads\OVS final\voting system\voting system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojAssemblyReference.cache
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Tapas\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojAssemblyReference.cache
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Tapas\Desktop\defence\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojAssemblyReference.cache
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Tapas\Desktop\New folder (4)\14203117\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\obj\Debug\Online voting system.csproj.CopyComplete
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Asus\Desktop\14203117\14203117\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
